@@ -1,0 +1,21 @@
+# Darkapp Web - Single File Web Edition
+# Complete OSINT Framework with Web UI
+
+# Core Web Framework (required)
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# Core Dependencies (required)
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+phonenumbers>=8.13.29
+
+# Optional but recommended
+dnspython>=2.6.1
+python-whois>=0.9.4
+Pillow>=10.2.0
+pandas>=2.2.0
+
+# For production deployment (optional)
+gunicorn>=21.2.0
+python-dotenv>=1.0.1
