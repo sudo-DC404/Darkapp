@@ -1,5 +1,3 @@
-[
-](https://sinx-darksec-1.tailcfc068.ts.net/)
 
 # Darkapp
 A powerful Open Source Intelligence (OSINT) toolkit for WhatsApp reconnaissance and metadata collection during authorized penetration testing engagements.
